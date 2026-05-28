@@ -23,6 +23,16 @@ In this exercise, you will:
 1. Customize Copilot's review considerations with repository-specific instructions
 1. Configure automatic code reviews using repository rulesets
 
+## Quick Practice Flow
+
+Use this lightweight workflow to practice pull request reviews in your own fork:
+
+1. Create a branch for your change.
+1. Make a small, focused update (for example, docs or one endpoint).
+1. Push the branch and open a pull request against `main`.
+1. Request a review from teammates and Copilot code review.
+1. Address comments, push updates, and merge when approved.
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
